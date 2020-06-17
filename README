@@ -1,0 +1,9 @@
+In 2001 Borwein Brother studied a particular integral.
+
+https://en.wikipedia.org/wiki/Borwein_integral
+
+These program compute, for a given N, the value of this integral in 3 differents ways
+
+How to use the program :
+
+./110borwein n
